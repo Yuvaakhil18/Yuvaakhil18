@@ -24,7 +24,7 @@
 
 ### About Me
 
-I'm a 2nd-year Computer Science Engineering student at Raghu Engineering College, passionate about web development and building things that look great and work even better.
+I'm a 3rd-year Computer Science Engineering student at Raghu Engineering College, passionate about web development and building things that look great and work even better.
 
 - 🔭 Currently building projects with **React** and **Node.js**
 - 🌱 Exploring **WebGL** and **full-stack development**
