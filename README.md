@@ -24,10 +24,10 @@
 
 ### About Me
 
-I'm a 3rd-year Computer Science Engineering student at Raghu Engineering College, passionate about web development and building things that look great and work even better.
+I'm a 2nd-year Computer Science Engineering student at Raghu Engineering College, passionate about web development and building things that look great and work even better.
 
-- 🔭 Currently building projects with **React** and **Node.js**
-- 🌱 Exploring **WebGL** and **full-stack development**
+- 🔭 Currently building projects with **HTML, CSS & Python**
+- 🌱 Growing my skills in **web development and data analytics**
 - 🎯 Actively seeking **internship opportunities** in web development
 - 🏏 Cricket player · 🎨 Canva designer · 💡 Startup enthusiast
 
@@ -36,11 +36,8 @@ I'm a 3rd-year Computer Science Engineering student at Raghu Engineering College
 ### Tech Stack
 
 ```text
-Languages      Python · JavaScript · TypeScript · HTML · CSS
-Frontend       React · WebGL
-Backend        Node.js
-Tools          Git · GitHub · VS Code · Canva · MS Office (Word, Excel, PowerPoint)
-Soft Skills    Creative Problem Solving · Self-Motivated · Curiosity-Driven Learning
+Languages      Python · HTML · CSS
+Tools          Git · GitHub · VS Code · Canva · MS Office
 ```
 
 ---
@@ -55,15 +52,6 @@ Motorbike brand landing page clone focused on pixel-perfect layout and styling �
 
 **[Temperature Converter](https://github.com/Yuvaakhil18)**
 CLI tool for Celsius ↔ Fahrenheit conversion — built with Python.
-
----
-
-### Experience
-
-**Data Analytics & Visualization — Virtual Experience**
-*Accenture via Forage*
-
-Completed a hands-on job simulation focused on data cleaning, dashboard creation, and client reporting using Excel. Practiced real-world data tasks, business decision-making, and storytelling through data.
 
 ---
 
