@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Banner.mp4" width="100%" alt="Banner"/>
+  <video autoplay loop muted src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Banner.mp4" width="100%"></video>
 </div>
 
 <div align="center">
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Bottom.mp4" width="100%" alt="Bottom MP4"/>
+  <video autoplay loop muted src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Bottom.mp4" width="100%"></video>
 </div>
 
 <br/>
