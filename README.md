@@ -1,4 +1,4 @@
-<h1 align="center">C. Yuvaakhil</h1>
+<h1 align="center">C.Yuvaakhil</h1>
 
 <p align="center">
   <b>Computer Science Student  · Visakhapatanam, India</b>
