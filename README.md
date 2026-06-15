@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.mp4" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Banner.mp4" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-<img src="coding.gif" align="right" width="400" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/coding.gif" align="right" width="400" alt="Coding GIF"/>
 
 - 🌍 Based in **India**
 - 💼 **Full Stack Developer**
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <img src="Bottom.mp4" width="100%" alt="Bottom MP4"/>
+  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Bottom.mp4" width="100%" alt="Bottom MP4"/>
 </div>
 
 <br/>
