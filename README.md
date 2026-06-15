@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Bannerr.gif" width="100%" alt="Banner GIF"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&pause=1000&color=5c4e84&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuva+Akhil+👋.;Most+call+me+Akhil!!" alt="Typing SVG" />
@@ -60,7 +62,9 @@
 
 
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yuvaakhil18/Yuvaakhil18/main/Bottomm.gif" width="100%" alt="Bottom GIF"/>
+</div>
 
 <br/>
 
