@@ -1,4 +1,4 @@
-https://github.com/Yuvaakhil18/Yuvaakhil18/raw/main/Banner.mp4
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&pause=1000&color=5c4e84&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuva+Akhil+👋.;Most+call+me+Akhil!!" alt="Typing SVG" />
@@ -60,7 +60,7 @@ https://github.com/Yuvaakhil18/Yuvaakhil18/raw/main/Banner.mp4
 
 
 
-https://github.com/Yuvaakhil18/Yuvaakhil18/raw/main/Bottom.mp4
+
 
 <br/>
 
